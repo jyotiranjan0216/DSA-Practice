@@ -1,0 +1,30 @@
+class Solution {
+public:
+    vector<int> findOrder(int V, vector<vector<int>>& edges) {
+        queue<int> q;
+        vector<int> ans;
+        vector<int> indegree(V, 0);
+        vector<vector<int>> adj(V);
+        for(auto it: edges) {
+            adj[it[1]].push_back(it[0]);
+            indegree[it[0]]++;
+        }
+        
+        for(int i = 0; i < V; i++) {
+            if(indegree[i] == 0) {
+                q.push(i);
+            }
+        }
+        while(!q.empty()) {
+            int peek = q.front();
+            ans.push_back(peek);
+            for(auto it: adj[peek]) {
+                indegree[it]--;
+                if(indegree[it] == 0) q.push(it);
+            }
+            q.pop();
+        }
+        if(ans.size() != V) return {};
+        return ans;
+    }
+};
