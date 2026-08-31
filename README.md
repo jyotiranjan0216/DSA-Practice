@@ -37,6 +37,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [3701-compute-alternating-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,4 +52,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0207-course-schedule) |
+## Simulation
+|  |
+| ------- |
+| [3701-compute-alternating-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 <!---LeetCode Topics End-->
