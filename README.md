@@ -7,6 +7,7 @@
 | [0207-course-schedule](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -56,4 +57,12 @@
 |  |
 | ------- |
 | [3701-compute-alternating-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/3701-compute-alternating-sum) |
+## Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
+## Binary Tree
+|  |
+| ------- |
+| [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
 <!---LeetCode Topics End-->
