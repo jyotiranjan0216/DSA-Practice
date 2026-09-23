@@ -38,6 +38,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [3701-compute-alternating-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
@@ -65,4 +66,16 @@
 |  |
 | ------- |
 | [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
