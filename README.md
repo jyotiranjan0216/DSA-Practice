@@ -15,6 +15,7 @@
 | [0207-course-schedule](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [3701-compute-alternating-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
@@ -90,6 +92,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
