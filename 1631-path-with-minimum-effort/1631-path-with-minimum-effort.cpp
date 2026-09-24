@@ -2,14 +2,7 @@ class Solution {
 public:
     int minimumEffortPath(vector<vector<int>>& heights) {
         int m = heights.size(), n = heights[0].size();
-        vector<vector<int>> efforts;
-        for(int i = 0; i < m; i++) {
-            vector<int> vec;
-            for(int j = 0; j < n; j++) {
-                vec.push_back(INT_MAX);
-            }
-            efforts.push_back(vec);
-        }
+        vector<vector<int>> efforts(m, vector<int>(n, INT_MAX));
         priority_queue<vector<int>, vector<vector<int>>, greater<vector<int>>> pq;
         pq.push({0, 0, 0});
         efforts[0][0] = 0;
