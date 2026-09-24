@@ -19,6 +19,7 @@ public:
             pq.pop();
             int eff = top[0];
             int row = top[1], col = top[2];
+            if(eff > efforts[row][col]) continue;
             for(int i = 0; i < 4; i++) {
                 int newRow = row + moves[i], newCol = col + moves[i+1];
                 if(newRow >= 0 && newRow < m && newCol >= 0 && newCol < n) {
