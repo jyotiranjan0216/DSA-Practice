@@ -46,6 +46,7 @@
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
