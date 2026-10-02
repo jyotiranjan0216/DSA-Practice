@@ -6,7 +6,7 @@ public:
             adj[road[0]].push_back({road[1], road[2]});
             adj[road[1]].push_back({road[0], road[2]});
         }
-        vector<pair<int, long long>> distance(n, {0, LLONG_MAX});
+        vector<pair<long long, long long>> distance(n, {0, LLONG_MAX});
         priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> pq;
         pq.push({0, 0});
         distance[0] = {1, 0};
