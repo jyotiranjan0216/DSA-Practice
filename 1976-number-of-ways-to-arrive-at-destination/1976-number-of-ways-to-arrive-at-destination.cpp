@@ -16,7 +16,8 @@ public:
             pq.pop();
             int node = top.second;
             long long dist = top.first;
-            for(auto it: adj[node]) {
+            if(dist > distance[node].second) continue;
+            for(auto it: adj[node]) { 
                 long long totalDist = (dist + it.second) ;
                 int curNode = it.first;
                 if(totalDist == distance[curNode].second) {
