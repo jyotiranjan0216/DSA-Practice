@@ -32,6 +32,7 @@
 | [0210-course-schedule-ii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
@@ -105,6 +106,7 @@
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Dynamic Programming
@@ -113,11 +115,13 @@
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
@@ -131,4 +135,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
