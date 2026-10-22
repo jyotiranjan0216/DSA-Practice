@@ -7,6 +7,7 @@
 | [0207-course-schedule](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
@@ -17,6 +18,7 @@
 | [0207-course-schedule](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -26,6 +28,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
@@ -53,6 +56,7 @@
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -62,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 ## Topological Sort
 |  |
 | ------- |
@@ -147,4 +152,12 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## String
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
+## Sorting
+|  |
+| ------- |
+| [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 <!---LeetCode Topics End-->
