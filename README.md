@@ -11,6 +11,7 @@
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0814-binary-tree-pruning](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0814-binary-tree-pruning) |
+| [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -21,6 +22,7 @@
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
@@ -30,6 +32,7 @@
 | [0547-number-of-provinces](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0785-is-graph-bipartite) |
+| [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -57,6 +60,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
+| [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -110,6 +114,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
