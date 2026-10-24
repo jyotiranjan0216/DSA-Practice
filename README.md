@@ -128,6 +128,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0509-fibonacci-number](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -165,4 +166,16 @@
 |  |
 | ------- |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
