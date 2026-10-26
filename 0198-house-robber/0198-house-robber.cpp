@@ -10,7 +10,19 @@ public:
     }
 
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size()+1, -1);
-        return maxRob(nums.size()-1, nums, dp);
+        // vector<int> dp(nums.size()+1, -1);
+        // return maxRob(nums.size()-1, nums, dp);
+        int prev = nums[0];
+        int prev2 = 0;
+        int maxi = 0;
+        for(int i = 1; i < nums.size(); i++) {
+            int pick = nums[i];
+            if(i > 1)
+                pick = nums[i] + prev2;
+            int notPick = prev;
+            int curi = max(pick, notPick);
+            prev2 = prev, prev = curi;
+        }
+        return prev;
     }
 };
