@@ -57,6 +57,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0055-jump-game) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0198-house-robber) |
@@ -128,6 +129,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -189,4 +191,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0062-unique-paths) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
