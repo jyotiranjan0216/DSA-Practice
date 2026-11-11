@@ -9,18 +9,21 @@ public:
     }
     int minimumTotal(vector<vector<int>>& triangle) {
         int size = triangle.size();
-        vector<vector<int>> dp(triangle.size(), vector<int>(triangle.size(), INT_MIN));
+        vector<int> dp(triangle.size(), INT_MIN);
         // return answer(0, 0, triangle.size(), triangle, dp);
         for(int i = 0; i < size; i++) {
-            dp[size-1][i] = triangle[size-1][i];
+            dp[i] = triangle[size-1][i];
         }
         for(int i = size-2; i >= 0; i--) {
+            vector<int> temp(size, INT_MIN);
             for(int j = i; j >= 0; j--) {
-                int d = dp[i+1][j];
-                int dg = dp[i+1][j+1];
-                dp[i][j] = min(d, dg) + triangle[i][j];
+                int d = dp[j];
+                int dg = dp[j+1];
+                temp[j] = min(d, dg) + triangle[i][j];
+                // cout << temp[i] <<endl;
             }
+            dp = temp;
         }
-        return dp[0][0];
+        return dp[0];
     }
 };
