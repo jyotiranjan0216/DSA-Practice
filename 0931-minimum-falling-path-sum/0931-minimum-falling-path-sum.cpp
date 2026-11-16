@@ -15,9 +15,25 @@ public:
         int size = matrix.size();
         vector<vector<int>> dp(size, vector<int>(size, -1e9));
         int ans = INT_MAX;
+        //-------------------Memoization--------------
+        // for(int i = 0; i < size; i++) {
+        //     ans = min(ans, answer(matrix, size-1, i, dp));
+        // }
+        // return ans;
+
+        //--------------------Tabulation--------------
         for(int i = 0; i < size; i++) {
-            ans = min(ans, answer(matrix, size-1, i, dp));
+            dp[0][i] = matrix[0][i];
         }
-        return ans;
+        for(int i = 1; i < size; i++) {
+            for(int j = 0; j < size; j++) {
+                int lu = INT_MAX, u = INT_MAX, ru = INT_MAX;
+                if(j-1 >= 0) lu = dp[i-1][j-1];
+                u = dp[i-1][j];
+                if(j+1 < size) ru = dp[i-1][j+1];
+                dp[i][j] = min(lu, min(u, ru)) + matrix[i][j];
+            }
+        }
+        return *min_element(dp[size-1].begin(), dp[size-1].end());
     }
 };
