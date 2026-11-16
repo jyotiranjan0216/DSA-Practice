@@ -64,6 +64,7 @@
 | [0198-house-robber](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0198-house-robber) |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
@@ -118,6 +119,7 @@
 |  |
 | ------- |
 | [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
+| [0931-minimum-falling-path-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
@@ -138,6 +140,7 @@
 | [0198-house-robber](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
