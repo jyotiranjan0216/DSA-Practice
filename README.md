@@ -62,6 +62,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0198-house-robber) |
+| [0496-next-greater-element-i](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0931-minimum-falling-path-sum) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0496-next-greater-element-i](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0721-accounts-merge](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0721-accounts-merge) |
 ## Topological Sort
 |  |
@@ -157,10 +159,12 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/jyotiranjan0216/DSA-Practice/tree/master/0496-next-greater-element-i) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
